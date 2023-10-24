@@ -1,11 +1,18 @@
-## Oii, eu sou a Karol sou dev front end
+**Hi, I'm Karol! <img src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif" width="50">**
+
+* * *
+
+**About me:**
+- 💻 I'm transitioning my career into programming
+- ⚛️ JavaScript | Python 
+- 📝 I'm graduated in Biological Sciences
+
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Karol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Karol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Karol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Karol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Karol-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/RBcLajS.png">
+  
 </div>
   
   ##
